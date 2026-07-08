@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Syed Nouman</h1>
 
-<!--
-**TechWithNouman/TechWithNouman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer Science Student | Frontend Developer | Python Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Final Year Computer Science Student
+- 🌱 Currently learning Frontend Development and Python
+- 💼 Fiverr Freelancer
+- 🚀 Passionate about Web Development
+- 📍 Karachi, Pakistan
+
+---
+
+## 🛠️ Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Bootstrap
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Responsive Landing Page
+Modern responsive landing page built with HTML and CSS.
+
+### 💼 Portfolio Website
+Personal portfolio website showcasing my work.
+
+### 🐍 Python Calculator GUI
+Desktop calculator built using Python Tkinter.
+
+### 🍔 Restaurant Website
+Modern responsive restaurant website.
+
+---
+
+## 🎯 Current Goals
+
+- Build professional portfolio
+- Improve frontend development skills
+- Deliver quality work on Fiverr
+- Learn React.js
+- Learn Backend Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/TechWithNouman
+- Fiverr: (Add your Fiverr profile link here)
+
+---
+
+⭐ Thanks for visiting my profile!
